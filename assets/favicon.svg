@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ольга Косых">
+  <defs>
+    <linearGradient id="g" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9259"/>
+      <stop offset=".55" stop-color="#e15718"/>
+      <stop offset="1" stop-color="#bf3f0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#g)"/>
+  <text x="32" y="42" fill="#fff" font-family="Manrope, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="-.5" text-anchor="middle">ОК</text>
+</svg>
